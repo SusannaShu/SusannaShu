@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Susanna
-- 👀 I’m interested in fashion design, computer engineering and entrepreneurship
+- 👀 I’m interested in fine art, fashion design, computer engineering and entrepreneurship
 - 🌱 I’m currently learning wearable techs and building JS based fashion renting platform
 - 💞️ I’m looking to collaborate on platform developement and hardware learning
 - 📫 email: susanna.xinshu@gmail.com
